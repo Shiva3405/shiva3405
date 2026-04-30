@@ -99,4 +99,11 @@
 
 ---
 
-## 📅 Daily Routine
+## 🚀 About Me (Terminal Style)
+
+```bash
+> whoami
+Name      : Shiva Shankar  
+Role      : Developer | AI/ML Enthusiast  
+Focus     : Full Stack • DSA • Data Analytics  
+Status    : Learning. Building. Improving 🚀
