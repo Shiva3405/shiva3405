@@ -169,17 +169,9 @@ $ cat current_focus.txt
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nik-nam-is-nani&show_icons=true&theme=tokyonight&hide_border=true&title_color=06d6a0&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nik-nam-is-nani&layout=compact&theme=tokyonight&hide_border=true&title_color=06d6a0&text_color=ffffff&bg_color=0d1117" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nik-nam-is-nani&theme=tokyonight&hide_border=true&stroke=06d6a0&ring=00b4d8&fire=ff6b35&currStreakLabel=06d6a0&background=0d1117" />
-</div>
 
----
+
 
 ## 🐍 Contribution Snake
 
@@ -192,23 +184,21 @@ $ cat current_focus.txt
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/k-nikshith-b4b8b42ba">
+  <a href="https://www.linkedin.com/in/k-shiva-shankar-vara-prasad-a294402bb/">
     <img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://myportfolio-aj8.pages.dev/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-06d6a0?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
+  
   &nbsp;
-  <a href="mailto:nik_name_is_nani@gmail.com">
+  <a href="mailto:shivashiva34781@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/nikshith_92/">
+  <a href="https://leetcode.com/u/shiva3405/">
     <img src="https://img.shields.io/badge/LEETCODE-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/nik_name_is_nani">
+  <a href="https://www.instagram.com/shivashankar2095/">
     <img src="https://img.shields.io/badge/INSTAGRAM-e1306c?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
