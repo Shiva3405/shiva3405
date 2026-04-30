@@ -1,3 +1,13 @@
+<!-- 🔥 TOP BANNER IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/main/banner.png" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shiva</h1>
+<h3 align="center">💻 Developer | 🤖 AI/ML Learner | 🚀 Building in Public</h3>
+
+---
+
 # 💫 About Me:
 🧠 Deep learner → want clear understanding, not memorizing  
 ❓ Ask questions a lot → until concept is clear  
