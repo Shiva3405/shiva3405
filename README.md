@@ -1,21 +1,56 @@
-<!-- 🔥 TOP BANNER IMAGE -->
+<!-- 🔥 COLORFUL BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nik-nam-is-nani/nik-nam-is-nani/main/banner.png" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6e50,30:1a9e72,60:00c896,100:00ffb3&height=250&section=header&text=K.%20SHIVA%20SHANKAR%20VARA%20PRASAD&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Developer%20%7C%20AI%2FML%20Learner%20%7C%20Full%20Stack%20Builder&descAlignY=62&descSize=20&animation=twinkling&fontAlign=50&stroke=00ffb3&strokeWidth=2" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shiva</h1>
+<!-- TYPING ANIMATION -->
+
+
+<!-- BADGES ROW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiva3405&label=PROFILE+VIEWS&color=0e7a55&style=flat-square&labelColor=0d1117" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/3rd%20YEAR-Student-00c896?style=flat-square&labelColor=0d1117" alt="3rd Year"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/College-GPCET%20KURNOOL-1a9e72?style=flat-square&labelColor=0d1117" alt="GPCET Kurnool"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-OPPORTUNITIES-f0b429?style=flat-square&labelColor=0d1117" alt="Open to Opportunities"/>
+</p>
+
+---
+
+<!-- WHOAMI TERMINAL BLOCK -->
+## $ whoami
+
+```
+Name     : K. Shiva Shankar Vara Prasad
+Role     : CS Student → Developer + AI/ML Learner
+College  : G. Pullaiah College of Engineering & Technology (3rd Year)
+Location : Kurnool, Andhra Pradesh, IN
+Focus    : Full Stack  ·  Data Analysis  ·  AI/ML Basics
+Status   : Building in public. Always learning. 🚀
+```
+
+---
+
+<h1 align="center">Hi 👋, I'm Shiva Shankar</h1>
 <h3 align="center">💻 Developer | 🤖 AI/ML Learner | 🚀 Building in Public</h3>
 
 ---
 
-# 💫 About Me:
-🧠 Deep learner → want clear understanding, not memorizing  
-❓ Ask questions a lot → until concept is clear  
-💻 Interested in coding → logic problems, debugging  
-📊 Like data work → Excel, analysis  
-🚀 Focus on real projects → dashboards, web, ML ideas  
-📚 Studying MEFA → mix of tech + business  
-🔍 Detail-oriented → often ask “give more”  
+# 💫 About Me
+
+> **"Deep learner. Problem solver. Always asking why."**
+
+I'm **K. Shiva Shankar Vara Prasad**, a developer from India passionate about building real-world solutions through code, data, and continuous learning.
+
+- 🧠 **Deep learner** → want clear understanding, not memorizing  
+- ❓ **Ask questions a lot** → until the concept is crystal clear  
+- 💻 **Interested in coding** → logic problems, debugging, building things  
+- 📊 **Like data work** → Excel, analysis, visualizations  
+- 🚀 **Focus on real projects** → dashboards, web apps, ML ideas  
+- 📚 **Studying MEFA** → mix of tech + business  
+- 🔍 **Detail-oriented** → always going deeper, always asking "tell me more"  
 
 ---
 
@@ -109,11 +144,7 @@
 
 ---
 
-## 🚀 About Me (Terminal Style)
-
-```bash
-> whoami
-Name      : Shiva Shankar  
-Role      : Developer | AI/ML Enthusiast  
-Focus     : Full Stack • DSA • Data Analytics  
-Status    : Learning. Building. Improving 🚀
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,50:1a9e72,100:0d6e50&height=100&section=footer" width="100%"/>
+</p>
