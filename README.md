@@ -31,12 +31,6 @@ Focus    : Full Stack  ·  Data Analysis  ·  AI/ML Basics
 Status   : Building in public. Always learning. 🚀
 ```
 
----
-
-<h1 align="center">Hi 👋, I'm Shiva Shankar</h1>
-<h3 align="center">💻 Developer | 🤖 AI/ML Learner | 🚀 Building in Public</h3>
-
----
 
 # 💫 About Me
 
